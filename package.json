@@ -1,23 +1,23 @@
 {
-  "name": "proxy_davidchen",
+  "name": "anoop-proxy",
   "version": "1.0.0",
-  "description": "Proxy server for nappbnb",
-  "main": "index.js",
+  "description": "",
+  "main": "webpack.config.js",
   "scripts": {
     "test": "jest",
     "dev-server": "nodemon server/index.js",
     "start": "node server/index.js"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/n-app/Proxy_DavidChen.git"
+    "url": "git+https://github.com/CandyShopDB/anoop-proxy.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/n-app/Proxy_DavidChen/issues"
+    "url": "https://github.com/CandyShopDB/anoop-proxy/issues"
   },
-  "homepage": "https://github.com/n-app/Proxy_DavidChen#readme",
+  "homepage": "https://github.com/CandyShopDB/anoop-proxy#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
